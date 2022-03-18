@@ -1,4 +1,4 @@
-### Hi there I'm **Oktay** 👋
+### Hi there, I'm **Oktay** 👋
 
 I'm a passionate **data scientist** and **Ph.D. student** at [Wichita State University](https://www.wichita.edu/).
 I love **open source development** and **AI research**.
